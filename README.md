@@ -1,1 +1,1 @@
-# packer
+Creating AMI Images using Packer
